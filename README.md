@@ -2,7 +2,7 @@
 
 ## Discription
 
-Jagua gallery is a JS applicatiion. I designed this project because I am passionate about my art, being a jagua artist. ["http://example.com"] Check out my blog about my project! It has tons onf more information and details about the project. 
+Jagua gallery is a JS applicatiion. I designed this project because I am passionate about my art, being a jagua artist. ["http://example.com"] Check out my blog about my project! It has tons of more information and details about the project. 
 
 ## Installation
 
